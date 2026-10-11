@@ -73,13 +73,6 @@
     "rss": "https://blog.ziworld.top/atom.xml"
   },
   {
-    "name": "桃花源 TYC",
-    "url": "https://www.ty2c.com/",
-    "avatar": "",
-    "description": "世外桃源，怡然自乐。",
-    "rss": "https://www.ty2c.com/rss.xml"
-  },
-  {
     "name": "QgxsのBlog",
     "url": "https://www.20210701.xyz/",
     "avatar": "https://www.20210701.xyz/icon.jpeg",
@@ -265,13 +258,6 @@
     "rss": "https://blog.amamo.top/rss.xml"
   },
   {
-    "name": "喵洛阁",
-    "url": "https://www.kemiaosw.top",
-    "avatar": "https://wsrv.nl/?url=github.com/kemeow0815.png",
-    "description": "每一段旅行，都有终点。",
-    "siteshot": "https://imgbed.268682.xyz/v2/wFOi4UQ.png"
-  },
-  {
     "name": "YFBLOG - 幻新至简",
     "url": "https://yfblog.asia",
     "avatar": "https://yfblog.asia/other/webp/256.webp",
@@ -310,13 +296,6 @@
     "avatar": "https://imba97.com/assets/images/favicon.png",
     "description": "一个前端",
     "rss": "https://imba97.com/feed.xml"
-  },
-  {
-    "name": "undz",
-    "url": "https://undz.cn",
-    "avatar": "https://undz.cn/logo.png",
-    "description": "Protect What You Love",
-    "rss": "https://undz.cn/rss.xml"
   },
   {
     "name": "小鱼钓猫🐱",
@@ -372,12 +351,6 @@
     "url": "https://techboy07.top/",
     "avatar": "https://www.google.com/s2/favicons?domain=techboy07.top&sz=128",
     "description": "记录生活，分享技术"
-  },
-  {
-    "name": "小生",
-    "url": "https://www.zsso.cn",
-    "avatar": "https://www.google.com/s2/favicons?domain=www.zsso.cn&sz=128",
-    "description": "天生我材必有用，千金散尽还复来。"
   },
   {
     "name": "LiMhy'Blog",
@@ -761,13 +734,6 @@
     "rss": "https://odonata.top/rss.xml"
   },
   {
-    "name": "Ethan的小破站",
-    "url": "https://blog.mczyk.cn/",
-    "avatar": "https://img-cdn.lusyoe.com/images/mcrj/2025/12/02/ozs55gne07.jpg",
-    "description": "花有重开日人无再少年",
-    "rss": "https://blog.mczyk.cn/index.php/feed/"
-  },
-  {
     "name": "QiuMonster's Ocean Book",
     "url": "https://blog.somoe.xyz/",
     "avatar": "https://www.google.com/s2/favicons?domain=blog.somoe.xyz&sz=128",
@@ -838,13 +804,6 @@
     "rss": "https://www.liyaqi.com/rss.xml"
   },
   {
-    "name": "Olinl Blog",
-    "url": "https://blog.olinl.com",
-    "avatar": "https://www.google.com/s2/favicons?domain=blog.olinl.com&sz=128",
-    "description": "分享、实践、学习",
-    "rss": "https://blog.olinl.com/rss.xml"
-  },
-  {
     "name": "拾音集",
     "url": "https://blog.tibtob.cn/",
     "avatar": "https://s1.tibtob.cn/blog/logo.png",
@@ -871,13 +830,6 @@
     "avatar": "https://blog.fufu520.cn/upload/logo-IjBa.webp",
     "description": "世界很大，我想去看看",
     "rss": "https://blog.fufu520.cn/rss.xml"
-  },
-  {
-    "name": "零ちゃんの委任手帳",
-    "url": "https://kokorotsuki.com",
-    "avatar": "https://kokorotsuki.com/assets/materials/library/09a5d1fd2e1741479006b20602f301ff.png",
-    "description": "零正努力维护着她的手帐",
-    "rss": "https://kokorotsuki.com/rss.xml"
   },
   {
     "name": "WenBlog",
