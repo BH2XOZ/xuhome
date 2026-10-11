@@ -911,5 +911,11 @@
     "avatar": "https://clannad.top/favicon.png",
     "description": "Welcome to HZH",
     "rss": "https://clannad.top/feed.xml"
+  },
+  {
+    "name": "Secret Blog",
+    "url": "https://secretblog.my.id",
+    "avatar": "https://i.ibb.co.com/tpYBWwXy/shangdi.avif",
+    "description": "My personal, secret blog."
   }
 ]
