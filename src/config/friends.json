@@ -862,5 +862,12 @@
     "url": "https://secretblog.my.id",
     "avatar": "https://i.ibb.co.com/tpYBWwXy/shangdi.avif",
     "description": "My personal, secret blog."
+  },
+  {
+    "name": "智言自语",
+    "url": "https://zyzu.top",
+    "avatar": "https://zyzu.top/img/zyzu11.png",
+    "description": "In Memory of Forgetting",
+    "rss": "https://zyzu.top/rss.php"
   }
 ]
