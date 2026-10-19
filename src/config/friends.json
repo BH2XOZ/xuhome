@@ -869,5 +869,11 @@
     "avatar": "https://zyzu.top/img/zyzu11.png",
     "description": "In Memory of Forgetting",
     "rss": "https://zyzu.top/rss.php"
+  },
+  {
+    "name": "Alexander",
+    "url": "https://lanerc.me",
+    "avatar": "https://lanerc.me/avatar.png",
+    "description": "记录代码、折腾与生活"
   }
 ]
