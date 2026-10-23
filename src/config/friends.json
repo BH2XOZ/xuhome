@@ -875,5 +875,11 @@
     "url": "https://lanerc.me",
     "avatar": "https://lanerc.me/avatar.png",
     "description": "记录代码、折腾与生活"
+  },
+  {
+    "name": "寻 Mi 处",
+    "url": "https://blog.mibase.top",
+    "avatar": "https://blog.mibase.top/img/miro.jpg",
+    "description": "寻觅文字、代码与感兴趣的一切"
   }
 ]
